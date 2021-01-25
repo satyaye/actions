@@ -20,7 +20,7 @@ Broadly successful and useful technology requires different perspectives and ski
 
 ## Evolution is better than stagnation
 
-Openness to new ideas and studied technological evolution make Azure Actions a stronger project.  Continual improvement, servant leadership, mentorship and respect are the foundations of the Kubernetes project culture. It is the duty for leaders in the Kubernetes community to find, sponsor, and promote new community members. Leaders should expect to step aside. Community members should expect to step up.
+Openness to new ideas and studied technological evolution make Azure Actions a stronger project.  Continual improvement, servant leadership, mentorship and respect are the foundations of the Azure Actions project culture. It is the duty for leaders in the Azure Actions community to find, sponsor, and promote new community members. Leaders should expect to step aside. Community members should expect to step up.
 
 **"Culture eats strategy for breakfast."   --Peter Drucker**
 
