@@ -1,12 +1,12 @@
-# Azure Actions Community Values
+# GitHub Actions for Azure - Community Values
 
 Below are the distilled values which our community lives by, and pushed our project and peers toward constant improvement.
 
-## Distribution is better than centralization
+## Distribution of Decision making, Ownership
 
 The scale of the Azure Actions project is only viable through high-trust and high-visibility distribution of work, which includes delegation of authority, decision making, technical design, code ownership, and documentation.  Distributed asynchronous ownership, collaboration, communication and decision making are the cornerstone of our world-wide community.
 
-## Community over product or company
+## Community First
 
 We are here as a community first, our allegiance is to the intentional stewardship of the Azure Actions project for the benefit of all its members and users everywhere.  We support working together publicly for the common goal of a vibrant interoperable ecosystem providing an excellent experience for our users. Individuals gain status through work, companies gain status through their commitments to support this community and fund the resources necessary for the project  to operate.
 
@@ -14,7 +14,7 @@ We are here as a community first, our allegiance is to the intentional stewardsh
 
 Large projects have a lot of less exciting, yet, hard work.  We value time spent automating repetitive work more highly than toil. Where that work cannot be automated, it is our culture to recognize and reward all types of contributions. However, heroism is not sustainable.
 
-## Inclusive is better than exclusive
+## Default to transparency
 
 Broadly successful and useful technology requires different perspectives and skill sets which can only be heard in a welcoming and respectful environment.  Community membership is a privilege, not a right. Community Leadership is earned through effort, scope, quality, quantity, and duration of contributions. Our community shows respect for the time and effort put into a discussion regardless of where a contributor is on their growth path.
 
